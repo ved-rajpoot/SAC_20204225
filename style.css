@@ -1,0 +1,8 @@
+.home-container {
+    height: 90vh;
+    background-color: rgb(0, 3, 37);
+    /* background: url("37150289.jpeg"); */
+    /* object-fit: fill; */
+    background-size: 100% 100%;
+    /* background-color: black; */
+}
